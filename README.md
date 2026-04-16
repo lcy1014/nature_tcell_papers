@@ -40,3 +40,7 @@ python collector.py --source pubmed
 
 Papers are displayed with title, authors, journal, date, URL, and DOI.
 Use `-v` for abstracts, `-o file.json` for machine-readable output.
+
+## Notes
+
+This project is under active development. Stay tuned for updates!
