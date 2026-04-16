@@ -44,3 +44,9 @@ Use `-v` for abstracts, `-o file.json` for machine-readable output.
 ## Notes
 
 This project is under active development. Stay tuned for updates!
+
+---
+
+## Test
+
+This is a test update to verify GitHub push workflow — April 16, 2026.
